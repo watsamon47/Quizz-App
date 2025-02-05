@@ -4,19 +4,19 @@ var questions = [
   QuizModel(
     'What are the main building blocks of Flutter UIs?',
     [
-      'widgets', 
-      'Components', 
-      'Blocks', 
+      'Widgets',
+      'Components',
+      'Blocks',
       'Functions',
     ],
   ),
   QuizModel(
     'How are Flutter UIs built?',
     [
-      'By combining widgets in code', 
-      'By combining widgets in a visual editor', 
-      'By defining widgets in config files', 
-      'By using Xcode for IOS and Androis',
+      'By combining widgets in code',
+      'By combining widgets in a visual editor',
+      'By defining widgets in config files',
+      'By using XCode for iOS and Android Studio for Android',
     ],
   ),
   QuizModel(
